@@ -5,11 +5,7 @@
              "appIDs": [ "N9UAAPC6WR.ru.rsv.ios"],
              "components": [
                {
-                  "/": "/testSite/*",
-                  "comment": "testSite"
-               },
-               {
-                  "/": "/*",
+                  "/": "*",
                   "comment": "Just site"
                }
              ]

@@ -5,8 +5,12 @@
              "appIDs": [ "N9UAAPC6WR.ru.rsv.ios"],
              "components": [
                {
-                  "/": "*",
-                  "comment": "Just site"
+                  "/": "/mail/*",
+                  "comment": "Open application"
+               },
+	      {
+                  "/": "/reset-password/*",
+                  "comment": "Open application"
                }
              ]
            }

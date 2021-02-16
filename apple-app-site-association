@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "N9UAAPC6WR.ru.rsv.ios"],
+             "appIDs": [ "N9UAAPC6WR.ru.rsv.ios", "N9UAAPC6WR.ru.rsv.ios-dev"],
              "components": [
                {
                   "/": "/mail/*",
@@ -17,6 +17,6 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "N9UAAPC6WR.ru.rsv.ios" ]
+      "apps": [ "N9UAAPC6WR.ru.rsv.ios", "N9UAAPC6WR.ru.rsv.ios-dev" ]
    }
 }
